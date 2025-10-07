@@ -640,9 +640,13 @@ footer {
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-07 230716.png>)
-![alt text](<Screenshot 2025-10-07 230742.png>)
-![alt text](<Screenshot 2025-10-07 230809.png>)
-![alt text](<Screenshot 2025-10-07 230824.png>)
+
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 230716" src="https://github.com/user-attachments/assets/8f9208d5-ad2c-4a88-b048-e746f892124a" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 230742" src="https://github.com/user-attachments/assets/bf197eb9-ced0-4a45-aa02-4be857e3c7a5" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 230809" src="https://github.com/user-attachments/assets/a8934a35-de3e-4f8a-b37e-f578d365c0e2" />
+<img width="1920" height="1020" alt="Screenshot 2025-10-07 230824" src="https://github.com/user-attachments/assets/829b8632-0bf8-454c-b3de-3aa18506d5b2" />
+
+
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
